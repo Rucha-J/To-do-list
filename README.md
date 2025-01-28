@@ -1,8 +1,8 @@
 #                                           Spring Boot Projects
    
-# Part-8: Spring Boot Real Project  
+# Spring Boot Real Project  
  
- * 2.TodoSimpleProject
+ * TodoSimpleProject
      
      Todo project relates which using 
        - Add 
